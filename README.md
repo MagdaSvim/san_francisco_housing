@@ -12,7 +12,7 @@ For this project we use Jupyter notebook in PyViz ecosystem for making visualiza
 
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab) - an extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture
 
-Libraries need for this project:
+Libraries needed for this project:
 ![Screenshot of imported librarues](Images/Capture.PNG)
 
 * [pandas](https://github.com/pandas-dev/pandas) - is a Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive 
